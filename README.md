@@ -172,8 +172,8 @@ All APIs were tested using **Postman**.
 
 ## 📹 Project Demonstration
 
-🎥 Project Demo Video: (Attach your video link here)
-📄 Documentation Report: (Attach your document link here)
+🎥 Project Demo Video
+📄 Documentation Report
 
 ---
 
