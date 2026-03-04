@@ -177,16 +177,6 @@ All APIs were tested using **Postman**.
 
 ---
 
-## 👩‍💻 Developed By
-
-**Team-Leader:Yamini N**
-
-**Team-Mates:** Roshni.R, Vimala.S, Sandhiya P.
-B.Sc Computer Science
-Shri Shankarlal Sundarbai Shasun Jain College, Chennai
-
----
-
 ## 📌 Conclusion
 
 This project demonstrates a secure and scalable backend authentication system that follows modern web security standards.
